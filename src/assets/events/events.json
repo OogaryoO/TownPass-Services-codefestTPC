@@ -4,7 +4,13 @@
             "title": "aAAAAaaAaAaA",
             "date": "0229",
             "tag": ["a", "b", "c"],
-            "pic": "https://example.com/"
+            "img": "/src/assets/images/gps.png"
+        },
+        "event2": {
+            "title": "BbbBbBbBbBbB",
+            "date": "0230",
+            "tag": ["a", "b", "c"],
+            "img": "https://zh.wikipedia.org/static/images/icons/wikipedia.png"
         }
     }
 }
