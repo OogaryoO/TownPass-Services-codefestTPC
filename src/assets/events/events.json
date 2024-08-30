@@ -2,14 +2,14 @@
     "event": {
         "event1": {
             "title": "aAAAAaaAaAaA",
-            "date": "0229",
-            "tag": ["a", "b", "c"],
+            "date": "2/29",
+            "tag": ["a", "bb", "ccc"],
             "img": "/src/assets/images/gps.png"
         },
         "event2": {
             "title": "BbbBbBbBbBbB",
-            "date": "0230",
-            "tag": ["a", "b", "c"],
+            "date": "2/30",
+            "tag": ["aaa", "bb", "c"],
             "img": "https://zh.wikipedia.org/static/images/icons/wikipedia.png"
         }
     }
