@@ -4,13 +4,17 @@
             "title": "aAAAAaaAaAaA",
             "date": "2/29",
             "tag": ["a", "bb", "ccc"],
-            "img": "/src/assets/images/gps.png"
+            "img": "/src/assets/images/gps.png",
+            "description":"lorem ipsum lorem ipsum",
+            "name": "event1"
         },
         "event2": {
             "title": "BbbBbBbBbBbB",
             "date": "2/30",
             "tag": ["aaa", "bb", "c"],
-            "img": "https://zh.wikipedia.org/static/images/icons/wikipedia.png"
+            "img": "https://zh.wikipedia.org/static/images/icons/wikipedia.png",
+            "description":"owo lorem ipsum lorem ipsum",
+            "name": "event2"
         }
     }
 }

@@ -10,6 +10,7 @@ import HotSpotView from '../views/HotSpotView.vue';
 import TicketDetail from '../views/TicketDetail.vue';
 import CouponDetail from '../views/CouponDetail.vue';
 import EventCalendar from '../views/EventCalendar.vue';
+import EventDetail from '@/views/EventDetail.vue';
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -74,6 +75,12 @@ const router = createRouter({
       name: 'event-calendar',
       component: EventCalendar
     },
+    {
+      path: '/event-detail',
+      name: 'event-detail',
+      component: EventDetail
+      //testing only, should be removed in release
+    }
   ]
 });
 
